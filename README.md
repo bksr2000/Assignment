@@ -1,0 +1,1 @@
+This is an assignment about data scraping, I was given task to scrape data from a website which included urls. Further more I used the scraped urls to scrape data from those urls.This is a small assignment but this was my first work on data scraping.
